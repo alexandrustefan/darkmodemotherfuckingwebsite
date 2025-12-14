@@ -1,0 +1,6 @@
+{
+  "name": "darkmodemotherfuckingwebsite",
+  "scripts": {
+    "start": "npx serve public -l $PORT"
+  }
+}
